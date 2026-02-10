@@ -154,7 +154,7 @@ Overall, the findings highlight the need for improved payment reliability, bette
 ## Author
 **Olatunbosun Fikayo**
 
-**Aspiring Data Analyst | Excel | SQL | Power BI**
+**Junior Data Analyst | Excel | SQL | Power BI**
 
 This project is part of my data analytics learning journey, where I document hands-on projects and share insights publicly.
 
